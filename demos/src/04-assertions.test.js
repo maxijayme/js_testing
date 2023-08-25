@@ -24,7 +24,7 @@ test('booleans', () => {
 test('array', () => {
   const newArray = [1, 2, 3];
   expect(newArray).toContain(3);
-})
+});
 
 test('string', () => {
   const word = 'pepe';
